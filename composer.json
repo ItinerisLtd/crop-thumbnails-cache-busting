@@ -1,0 +1,17 @@
+{
+  "name": "itinerisltd/crop-thumbnails-cache-busting",
+  "description": "Changes the filename on crop to prevent CDN caching issues",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "require": {
+    "composer/installers": "^1.6"
+  },
+  "extra": {
+    "composify": {
+      "zip": "/home/barry/Code/Plugins/crop-thumbnails-cache-busting.zip",
+      "file": "crop-thumbnails-cache-busting.php",
+      "version": "0.1.0",
+      "build-at": "2019-06-27T08:12:19.172Z"
+    }
+  }
+}
